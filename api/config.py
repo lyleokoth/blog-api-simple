@@ -20,7 +20,7 @@ class TestingConfig(BaseConfig):
     DEBUG = True
     TESTING = True
 
-    MONGODB_DB = os.environ['TEST_DB']
+    MONGODB_DB = 'flask-react-blog-simple-test'
     MONGODB_HOST = '127.0.0.1'
     MONGODB_PORT = 27017
     MONGODB_USERNAME = ''

@@ -9,3 +9,5 @@ coverage==6.3.2
 mypy==0.942
 bandit==1.7.4
 tox==3.24.5
+sphinx==4.5.0
+sphinx-rtd-theme==1.0.0
