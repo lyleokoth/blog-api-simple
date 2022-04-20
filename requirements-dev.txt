@@ -1,0 +1,11 @@
+setuptools==60.10.0
+pytest==7.1.1
+flake8==4.0.1
+pylint==2.13.4
+isort==5.10.1
+pre-commit==2.18.1
+commitizen==2.23.0
+coverage==6.3.2
+mypy==0.942
+bandit==1.7.4
+tox==3.24.5
